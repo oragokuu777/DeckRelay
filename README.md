@@ -1,0 +1,2 @@
+# DeckRelay
+AndroidからMacへシステム音声をリアルタイム転送するオーディオリレーツール「DeckRelay」。Wi-FiネットワークでAndroidの音声をMacへリアルタイム転送するオーディオリレーツール「DeckRelay」。ワイヤレスでスマホの画面や音声をMacへリレーできます。
