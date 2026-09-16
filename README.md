@@ -1,4 +1,4 @@
-# DeckRelay - Android to Mac Audio & Screen Relay
+# DeckRelay - Android to Mac Audio 
 
 `DeckRelay` は、Android端末（スマートフォン、タブレット、プロジェクター等）のシステム音声を、同一Wi-Fi経由でMacへ高音質かつ低遅延に転送（リレー）するためのmacOS専用デスクトップアプリケーションです。
 
